@@ -1,12 +1,28 @@
 .fff{
     color: rgba(127, 255, 0, 0.64);
+    background: lemonchiffon;
 }
 .mmm{
     color:midnightblue;
+background: red;
 }
 .win{
     color: #2865c2;
+background: aqua;
 }
-.lom{
-  color: #ff0000;
+.lom {
+    color: #ff0000;
+    background: silver;
+}
+ .bbb{
+     width:200px;
+     height: 400px;
+ }
+.ccc{
+    width:200px;
+    height:400px ;
+}
+.led{
+    width:400px;
+    height:200px;
 }
